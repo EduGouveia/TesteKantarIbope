@@ -1,0 +1,7 @@
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\bin\Debug\KantarIbopeMedia.exe
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\bin\Debug\KantarIbopeMedia.exe.config
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\obj\Debug\KantarIbopeMedia.csproj.CoreCompileInputs.cache
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\obj\Debug\KantarIbopeMedia.exe
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\obj\Debug\KantarIbopeMedia.pdb
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\bin\Debug\KantarIbopeMedia.pdb
+C:\Users\EduGouveia\source\repos\KantarIbopeMedia\KantarIbopeMedia\obj\Debug\KantarIbopeMedia.csprojAssemblyReference.cache
